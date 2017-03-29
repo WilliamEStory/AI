@@ -1,0 +1,9 @@
+c:\users\william_2\documents\visual studio 2012\Projects\WilliamStory_ConnectFour\WilliamStory_ConnectFour\bin\Debug\WilliamStory_ConnectFour.exe.config
+c:\users\william_2\documents\visual studio 2012\Projects\WilliamStory_ConnectFour\WilliamStory_ConnectFour\bin\Debug\WilliamStory_ConnectFour.exe
+c:\users\william_2\documents\visual studio 2012\Projects\WilliamStory_ConnectFour\WilliamStory_ConnectFour\bin\Debug\WilliamStory_ConnectFour.pdb
+c:\users\william_2\documents\visual studio 2012\Projects\WilliamStory_ConnectFour\WilliamStory_ConnectFour\obj\Debug\WilliamStory_ConnectFour.csprojResolveAssemblyReference.cache
+c:\users\william_2\documents\visual studio 2012\Projects\WilliamStory_ConnectFour\WilliamStory_ConnectFour\obj\Debug\WilliamStory_ConnectFour.Form1.resources
+c:\users\william_2\documents\visual studio 2012\Projects\WilliamStory_ConnectFour\WilliamStory_ConnectFour\obj\Debug\WilliamStory_ConnectFour.Properties.Resources.resources
+c:\users\william_2\documents\visual studio 2012\Projects\WilliamStory_ConnectFour\WilliamStory_ConnectFour\obj\Debug\WilliamStory_ConnectFour.csproj.GenerateResource.Cache
+c:\users\william_2\documents\visual studio 2012\Projects\WilliamStory_ConnectFour\WilliamStory_ConnectFour\obj\Debug\WilliamStory_ConnectFour.exe
+c:\users\william_2\documents\visual studio 2012\Projects\WilliamStory_ConnectFour\WilliamStory_ConnectFour\obj\Debug\WilliamStory_ConnectFour.pdb
