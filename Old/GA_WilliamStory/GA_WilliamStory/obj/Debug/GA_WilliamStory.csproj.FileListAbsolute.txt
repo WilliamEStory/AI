@@ -1,0 +1,6 @@
+c:\users\william_2\documents\visual studio 2012\Projects\GA_WilliamStory\GA_WilliamStory\bin\Debug\GA_WilliamStory.exe.config
+c:\users\william_2\documents\visual studio 2012\Projects\GA_WilliamStory\GA_WilliamStory\obj\Debug\GA_WilliamStory.csprojResolveAssemblyReference.cache
+c:\users\william_2\documents\visual studio 2012\Projects\GA_WilliamStory\GA_WilliamStory\bin\Debug\GA_WilliamStory.exe
+c:\users\william_2\documents\visual studio 2012\Projects\GA_WilliamStory\GA_WilliamStory\bin\Debug\GA_WilliamStory.pdb
+c:\users\william_2\documents\visual studio 2012\Projects\GA_WilliamStory\GA_WilliamStory\obj\Debug\GA_WilliamStory.exe
+c:\users\william_2\documents\visual studio 2012\Projects\GA_WilliamStory\GA_WilliamStory\obj\Debug\GA_WilliamStory.pdb
