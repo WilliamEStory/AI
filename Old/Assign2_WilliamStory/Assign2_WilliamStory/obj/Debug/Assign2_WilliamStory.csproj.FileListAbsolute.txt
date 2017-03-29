@@ -1,0 +1,6 @@
+c:\users\william_2\documents\visual studio 2012\Projects\Assign2_WilliamStory\Assign2_WilliamStory\bin\Debug\Assign2_WilliamStory.exe.config
+c:\users\william_2\documents\visual studio 2012\Projects\Assign2_WilliamStory\Assign2_WilliamStory\bin\Debug\Assign2_WilliamStory.exe
+c:\users\william_2\documents\visual studio 2012\Projects\Assign2_WilliamStory\Assign2_WilliamStory\bin\Debug\Assign2_WilliamStory.pdb
+c:\users\william_2\documents\visual studio 2012\Projects\Assign2_WilliamStory\Assign2_WilliamStory\obj\Debug\Assign2_WilliamStory.csprojResolveAssemblyReference.cache
+c:\users\william_2\documents\visual studio 2012\Projects\Assign2_WilliamStory\Assign2_WilliamStory\obj\Debug\Assign2_WilliamStory.exe
+c:\users\william_2\documents\visual studio 2012\Projects\Assign2_WilliamStory\Assign2_WilliamStory\obj\Debug\Assign2_WilliamStory.pdb
