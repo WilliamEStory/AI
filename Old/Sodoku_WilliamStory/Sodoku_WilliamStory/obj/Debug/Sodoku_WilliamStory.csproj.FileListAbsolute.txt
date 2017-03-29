@@ -1,0 +1,9 @@
+c:\users\william_2\documents\visual studio 2012\Projects\Sodoku_WilliamStory\Sodoku_WilliamStory\bin\Debug\Sodoku_WilliamStory.exe.config
+C:\Users\William_2\Documents\Visual Studio 2012\Projects\Sodoku_WilliamStory\Sodoku_WilliamStory\bin\Debug\Sodoku_WilliamStory.exe
+C:\Users\William_2\Documents\Visual Studio 2012\Projects\Sodoku_WilliamStory\Sodoku_WilliamStory\bin\Debug\Sodoku_WilliamStory.pdb
+C:\Users\William_2\Documents\Visual Studio 2012\Projects\Sodoku_WilliamStory\Sodoku_WilliamStory\obj\Debug\Sodoku_WilliamStory.PuzzleBox.resources
+C:\Users\William_2\Documents\Visual Studio 2012\Projects\Sodoku_WilliamStory\Sodoku_WilliamStory\obj\Debug\Sodoku_WilliamStory.Properties.Resources.resources
+C:\Users\William_2\Documents\Visual Studio 2012\Projects\Sodoku_WilliamStory\Sodoku_WilliamStory\obj\Debug\Sodoku_WilliamStory.csproj.GenerateResource.Cache
+C:\Users\William_2\Documents\Visual Studio 2012\Projects\Sodoku_WilliamStory\Sodoku_WilliamStory\obj\Debug\Sodoku_WilliamStory.exe
+C:\Users\William_2\Documents\Visual Studio 2012\Projects\Sodoku_WilliamStory\Sodoku_WilliamStory\obj\Debug\Sodoku_WilliamStory.pdb
+C:\Users\William_2\documents\visual studio 2012\Projects\Sodoku_WilliamStory\Sodoku_WilliamStory\obj\Debug\Sodoku_WilliamStory.csprojResolveAssemblyReference.cache
